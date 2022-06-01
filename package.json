@@ -1,46 +1,45 @@
-
-  {
+{
     "strapi": {
-      "name": "todo-list-strapi-plugin",
-      "description": "This is a todo plugin made for strapi You could use this to maintain your todos",
-      "kind": "plugin",
-      "displayName": "Todo List"
+        "name": "todo-list-strapi-plugin",
+        "description": "This is a todo plugin made for strapi You could use this to maintain your todos",
+        "kind": "plugin",
+        "displayName": "Todo List"
     },
     "dependencies": {},
-  "name": "todo-list-plugin",
-  "version": "1.0.0",
-  "description": "This is a todo plugin made for strapi You could use this to maintain your todos",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anirudh12032008/todo-list-npm-strapi.git"
-  },
-  "keywords": [
-    "todo",
-    "todo-list",
-    "plugin",
-    "strapi",
-    "strapi-plugin"
-  ],
-  "author": {
-    "name": "Anirudh Sahu",
-    "email": "renudilip19@gmail.com"
-  },
-  "maintainers": [
-    {
-      "name": "Anirudh Sahu"
-    }
-  ],
-  "engines": {
-    "node": ">=12.x.x <=16.x.x",
-    "npm": ">=6.0.0"
-  },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/anirudh12032008/todo-list-npm-strapi/issues"
-  },
-  "homepage": "https://github.com/anirudh12032008/todo-list-npm-strapi#readme"
+    "name": "todo-list-plugin",
+    "version": "1.1.0",
+    "description": "This is a todo plugin made for strapi You could use this to maintain your todos",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/anirudh12032008/todo-list-npm-strapi.git"
+    },
+    "keywords": [
+        "todo",
+        "todo-list",
+        "plugin",
+        "strapi",
+        "strapi-plugin"
+    ],
+    "author": {
+        "name": "Anirudh Sahu",
+        "email": "renudilip19@gmail.com"
+    },
+    "maintainers": [
+        {
+            "name": "Anirudh Sahu"
+        }
+    ],
+    "engines": {
+        "node": ">=12.x.x <=16.x.x",
+        "npm": ">=6.0.0"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/anirudh12032008/todo-list-npm-strapi/issues"
+    },
+    "homepage": "https://github.com/anirudh12032008/todo-list-npm-strapi#readme"
 }
